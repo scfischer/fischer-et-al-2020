@@ -16,4 +16,4 @@ All further information regarding the analysis is contained in the Mathematica n
 
 For questions and comments please contact sabine.fischer@uni-wuerzburg.de
 
-The latest release is archived at Zenodo: https://zenodo.org/badge/latestdoi/260447931
+The latest release is archived at Zenodo: [![DOI](https://zenodo.org/badge/260447931.svg)](https://zenodo.org/badge/latestdoi/260447931)
